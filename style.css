@@ -33,15 +33,17 @@ section>h2 {
 }
 
 section.AlbertEinstein>h2 {
+    color : white;
     background-color: Purple;
 }
 
 section.MarieCurie>h2 {
+    color : white;
     background-color: Purple;
 }
 
 section.IsaacNewton>h2 {
-    color: blue;
+    color : white;
     background-color: Purple;
 }
 
