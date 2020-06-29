@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #9ACD32;
+    background-color: #7CFC00;
 }
 
 h1 {
@@ -14,7 +14,7 @@ h1 {
 
 section {
     border: 1px solid black;
-    background-color: Blue;
+    background-color: #87CEEB;
     margin: 10px;
 }
 
@@ -34,17 +34,17 @@ section>h2 {
 
 section.AlbertEinstein>h2 {
     color : white;
-    background-color: Purple;
+    background-color: #EE82EE;
 }
 
 section.MarieCurie>h2 {
     color : white;
-    background-color: Purple;
+    background-color: #EE82EE;
 }
 
 section.IsaacNewton>h2 {
     color : white;
-    background-color: Purple;
+    background-color: #EE82EE;
 }
 
 section>p {
